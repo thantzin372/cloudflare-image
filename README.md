@@ -2,7 +2,7 @@
 For Laravel and Cloudflare Image Integration Api
 
 1. add cloudflare-images.php to config folder
-2. add cloudflare folder to app/services folder
+2. add Cloudflare folder to app/services folder
 3. update env like belows.
 	#CLOUDFLARE IMAGES
 	CLOUDFLARE_IMAGES_ACCOUNT_ID='982754957959595757'
